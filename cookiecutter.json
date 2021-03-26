@@ -1,0 +1,13 @@
+{
+  "id": "script.cookie.cutter",
+  "name": "cookiecutter kodi",
+  "author": "me",
+  "summary": "a kodi addon template",
+  "description": "generated with cookiecutter",
+  "language": "en",
+  "platform": "all",
+  "email": "",
+  "website": "Kodi.tv",
+  "forum": "",
+  "source": ""
+}
